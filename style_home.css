@@ -1,0 +1,53 @@
+body {
+    background-color: #242323;
+    #btn{
+        background-color: #0096fa;
+        border: none;
+     color: black;
+     padding: 15px 32px;
+     text-align: center;
+     text-decoration: none;
+     display: inline-block;
+     font-size: 25px;
+     border-radius: 5px;
+     bottom: 0;
+     cursor: pointer;
+    }
+    .box{
+        
+        width: 50%;
+        background-color: #ffffff;
+        border-radius: 5px;
+        position: fixed;
+        padding: 350px;
+        margin: auto;
+        right: 0;
+        left: 0;
+        
+        
+    }
+    footer {
+        background-color: #0f0e0e;
+        padding: 10px;
+        text-align: center;
+        color: white;
+        bottom: 0;
+        position: fixed;
+        width: 100%;
+    }
+    header {
+        background-color: #0f0e0e;
+        padding: 10px;
+        text-align: right;
+        color: white;
+        top: 0;
+        position: fixed;
+        width: 100%;
+    }
+    #homepic {
+        display: block;
+
+        
+    }
+    
+}
